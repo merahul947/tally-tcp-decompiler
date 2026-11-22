@@ -30,7 +30,7 @@ If you are searching for a **TCP decompiler**, a **TCP to TDL converter**, a **T
 
 | Plan | Price | Best for |
 |------|-------|----------|
-| Community | Free | Small Regular TCP files (strictly below 5 KB) |
+| Community | Free | Small Regular TCP files |
 | Single File | From ₹700 | One-off recovery of Regular or Inscribed TCP files |
 | Enterprise | Custom | Large files, multiple files, technical review |
 
