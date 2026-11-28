@@ -1,6 +1,7 @@
 # TCP Decompiler: Tally TCP to TDL / Text
 
-**Website: [https://tcpdecompiler.in](https://tcpdecompiler.in)**
+**Contact the team on [Telegram](https://t.me/softssrvs)**
+
 
 TCP Decompiler is an online tool for Tally developers and consultants. It helps you recover readable **TDL (Tally Definition Language)** source from compiled Tally **TCP** files, so you can review the logic of a customization and keep working on it.
 
@@ -31,7 +32,6 @@ If you are searching for a **TCP decompiler**, a **TCP to TDL converter**, a **T
 | Plan | Price | Best for |
 |------|-------|----------|
 | Community | Free | Small Regular TCP files |
-| Single File | From ₹700 | One-off recovery of Regular or Inscribed TCP files |
 | Enterprise | Custom | Large files, multiple files, technical review |
 
 Current prices and rules are always on the [pricing page](https://tcpdecompiler.in/pricing).
